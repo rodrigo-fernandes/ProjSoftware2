@@ -1,7 +1,5 @@
 Cuida-Ai
 
-ProjSoftware2
-
 Aluno: Rodrigo Fernandes
 
 Disciplina: Projeto de Software 2
