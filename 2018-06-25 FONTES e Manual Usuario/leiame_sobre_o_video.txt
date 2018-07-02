@@ -1,6 +1,1 @@
-Para que o video possa ser executado com sucesso será necessário possui a ferramenta de gravação "SCREEN2SWF".
-
-Caso não tenha, não será posível a visualização do mesmo.
-
-Segue o link do programa caso não possui:
-http://www.screen-record.com/screen2exe.htm
+Video feito no formato .mp4
